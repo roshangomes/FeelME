@@ -1,6 +1,5 @@
 # FeelMe
 
-![FeelMe Logo](https://your-logo-url.com)
 
 ## 📌 Project Overview
 FeelMe is an intuitive mood tracking and sentiment analysis app designed to help users monitor their emotional well-being. By logging daily moods and journal entries, the app analyzes sentiment trends and provides insights to improve mental health.
@@ -28,9 +27,9 @@ FeelMe is an intuitive mood tracking and sentiment analysis app designed to help
 3. Build and run on a simulator or device.
 
 ## 📸 Screenshots
-| Home Screen | Mood Entry | Mood Calendar |
-|------------|-----------|--------------|
-| ![Home](https://your-image-url.com) | ![Entry](https://your-image-url.com) | ![Calendar](https://your-image-url.com) |
+| Launch Screen | Home Screen | Mood Entry | Mood Calendar |
+|------------|-----------|--------------|--------------|
+| ![Launch Screen](assests/Launch_Screen.png) | ![Home Screen](assests/HomeScreen.png) | ![Mood Entry](assests/MoodEntryScreen.png) | ![Calendar](assests/CalenderScreen.png) |
 
 ## 🤝 Contribution
 Feel free to contribute to this project:
@@ -42,7 +41,7 @@ Feel free to contribute to this project:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
-For any inquiries, reach out at [your-email@example.com](mailto:your-email@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+For any inquiries, reach out at [Gmail](roshangomes5@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/roshan-gomes/).
 
 ---
 Made with ❤️ by Roshan Steve Gomes
