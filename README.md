@@ -4,6 +4,9 @@
 ## 📌 Project Overview
 FeelMe is an intuitive mood tracking and sentiment analysis app designed to help users monitor their emotional well-being. By logging daily moods and journal entries, the app analyzes sentiment trends and provides insights to improve mental health.
 
+![Swift Student Challenge](https://img.shields.io/badge/Swift%20Student%20Challenge'25%20Winning%20Project-1C1C1E?style=for-the-badge&logo=swift&logoColor=FC6D26&labelColor=FFFFFF)
+
+
 ## ✨ Features
 - 📅 **Mood Tracking**: Log daily moods using emojis.
 - 📝 **Journaling**: Write short journal entries.
