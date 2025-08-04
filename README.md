@@ -34,11 +34,7 @@ FeelMe is an intuitive mood tracking and sentiment analysis app designed to help
 |------------|-----------|--------------|--------------|
 | ![Launch Screen](assests/Launch_Screen.png) | ![Home Screen](assests/HomeScreen.png) | ![Mood Entry](assests/MoodEntryScreen.png) | ![Calendar](assests/CalenderScreen.png) |
 
-## 🤝 Contribution
-Feel free to contribute to this project:
-- Fork the repository
-- Create a feature branch
-- Submit a pull request
+
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
